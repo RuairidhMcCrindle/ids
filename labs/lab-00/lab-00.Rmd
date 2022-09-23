@@ -26,7 +26,7 @@ team_data <- tibble(username = usernames, die_roll = nums, colour = colours,
 ```
 
 ### Exercise 18
-We now work on visualising our data.
+We now work on visualising our data. Hello
 
 ```{r bar-plot}
 # Uncomment the three lines below
